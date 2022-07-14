@@ -20,7 +20,7 @@ Dependency this library in Maven Project
   ```xml
   <dependency>
 	    <groupId>com.github.taogen-lib</groupId>
-	    <artifactId>commons-jsonparser-jackson</artifactId>
+	    <artifactId>jsonparser-jackson</artifactId>
 	    <version>Tag</version>
   </dependency>
   ```
