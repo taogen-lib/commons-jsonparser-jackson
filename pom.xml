@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>com.taogen.common.jsonparser</groupId>
-	<artifactId>commons-jsonparser-jackson</artifactId>
+	<artifactId>jsonparser-jackson</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
-	<name>commons-jsonparser-jackson</name>
+	<name>jsonparser-jackson</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
