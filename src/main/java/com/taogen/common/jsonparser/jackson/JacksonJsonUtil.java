@@ -21,7 +21,7 @@ import java.util.Map;
  * 3. ignore field: @JsonIgnore
  * 4. ignore null value fields: @JsonInclude(JsonInclude.Include.NON_NULL)
  * Deserialization:
- * 1. ignore field: @JsonIgnoreProperties(ignoreUnknown = true)
+ * 1. ignore non-declared fields: @JsonIgnoreProperties(ignoreUnknown = true) - fix UnrecognizedPropertyException
  *
  * @author Taogen
  */
